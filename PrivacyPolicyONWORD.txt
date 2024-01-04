@@ -11,7 +11,7 @@ Information Collection and Use
 
 The app does use third-party services that may collect information used to identify you:
 
-Google Play Services
+Google Play Services 
 AdMob
 
 Cookies
