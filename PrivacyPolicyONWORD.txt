@@ -2,7 +2,7 @@ Privacy Policy
 Michael Xavier built the ONWORD app as an Ad Supported app. This SERVICE is provided by Michael Xavier at no cost and is intended for use as is.
 
 DATA DELETION
-To request deletion of personal data collected about you or your usage of my service, send an email with a request for data deletion to freemobilegamesappstorecontact@gmail.com. If I have personally retained data about you or your usage of my service, it will be deleted within 72 hours. At present, all data collected about users is done indirectly through third-party services (see Information Collection and Use) and no data is personally collected by me (Michael Xavier) independent of these services. To request deletion of this third-party data, contact these services directly regarding their collection of user data.
+To request deletion of personal data collected about you or your usage of my service, send an email with a request for data deletion to freemobilegamesappstorecontact@gmail.com. If I have personally retained data about you or your usage of my service, it will be deleted within 72 hours. At present, all data collected about users is retained indirectly through third-party services (see Information Collection and Use) and no data is personally collected by me (Michael Xavier) independent of these services. To request deletion of this third-party data, contact these services directly regarding their collection of user data. For specific information about data collected by these third-party services, see the links provided in the Information Collection and Use section.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -15,10 +15,10 @@ Information Collection and Use
 The app does use third-party services that may collect information used to identify you:
 
 Google Play Services 
-https://play.google.com/store/apps/details?id=com.google.android.gms&hl=en_US&gl=US&pli=1
+https://support.google.com/android/answer/10546414?hl=en#:~:text=If%20a%20user%20uses%20Google,across%20devices%20and%20the%20cloud.
 
 AdMob
-https://admob.google.com/home/
+https://developers.google.com/admob/ios/privacy/data-disclosure#:~:text=To%20improve%20the%20performance%20of,problems%20and%20improve%20the%20SDK.
 
 Cookies
 
